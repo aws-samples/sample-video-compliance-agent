@@ -1,4 +1,4 @@
-pillow==12.2.0
+pillow==12.3.0
 pydantic==2.10.5
 beautifulsoup4==4.13.1
 boto3==1.37.36
