@@ -1,0 +1,9 @@
+pillow==12.2.0
+pydantic==2.10.5
+beautifulsoup4==4.13.1
+boto3==1.37.36
+botocore==1.37.36
+timecode
+numpy==1.26.4
+strands-agents
+strands-agents-tools

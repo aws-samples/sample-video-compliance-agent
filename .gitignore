@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# CDK
+cdk.out/
+cdk.context.json
+
+# IDE
+.idea/
+.vscode/
+.claude/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+*.env.local
+dev.env
+
+# Node
+node_modules/
+
+# Lambda layers (built artifacts)
+lambda-layer/
+
+# Backup files
+*.bak
+
+# Video samples (large test files)
+video_samples/
+
+# FFmpeg binaries (use download.sh to fetch)
+verifier/backend/lambda/layers/ffmpeg/bin/
+
+# Core dumps
+core
